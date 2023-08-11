@@ -1,4 +1,4 @@
-# Code_Examples\
+# Code_Examples
 
 Morg_Simulator_C#: Simulator designed and implemented in C# to read from a file to create "Morgs" little micro-organisms that hunt and eat each other. Implemented using Design patterns: Strategy, Observer, Decorator, and Factory
 
